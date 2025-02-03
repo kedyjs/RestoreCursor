@@ -1,12 +1,12 @@
 # 🔄 Cursor ID Sıfırlama Aracı
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/kedyjs/cursor-id-reset?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kedyjs/cursor-id-reset?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/kedyjs/cursor-id-reset?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kedyjs/RestoreCursor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kedyjs/RestoreCursor?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/kedyjs/RestoreCursor?style=social)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="cursor-logo.png" alt="Cursor Logo" width="200"/>
+<img src="cursor-logo.jpg" alt="Cursor Logo" width="200"/>
 
 *Cursor editörü için geliştirilmiş telemetri ID sıfırlama aracı*
 
@@ -68,8 +68,8 @@ Cursor ID Sıfırlama Aracı, Cursor editörünün telemetri verilerini yönetme
 
 ### 1. Repository'yi Klonlayın
 ```bash
-git clone https://github.com/kedyjs/cursor-id-reset.git
-cd cursor-id-reset
+git clone https://github.com/kedyjs/RestoreCursor.git
+cd RestoreCursor
 ```
 
 
@@ -90,7 +90,7 @@ python main.py
 
 ## 📁 Dosya Yapısı
 ```bash
-cursor-id-reset/
+RestoreCursor/
 ├── main.py # Ana program dosyası
 ├── requirements.txt # Bağımlılıklar
 ├── LICENSE # Lisans dosyası
@@ -145,7 +145,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 Proje Sahibi - [@Githubkedyjs](https://github.com/kedyjs)
 
-Proje Linki: [https://github.com/kedyjs/cursor-id-reset](https://github.com/kedyjs/cursor-id-reset)
+Proje Linki: [https://github.com/kedyjs/RestoreCursor](https://github.com/kedyjs/RestoreCursor)
 
 ---
 
@@ -153,8 +153,8 @@ Proje Linki: [https://github.com/kedyjs/cursor-id-reset](https://github.com/kedy
 
 ### ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
 
-<a href="https://github.com/kedyjs/cursor-id-reset/stargazers">
-    <img src="https://img.shields.io/github/stars/kedyjs/cursor-id-reset?style=social" alt="stars">
+<a href="https://github.com/kedyjs/RestoreCursor/stargazers">
+    <img src="https://img.shields.io/github/stars/kedyjs/RestoreCursor?style=social" alt="stars">
 </a>
 
 </div>
